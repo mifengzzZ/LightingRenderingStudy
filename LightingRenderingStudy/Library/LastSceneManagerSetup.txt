@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Resources/SkythianCat/Hand_Painted_Nature_Kit_LITE/DEMO/Demo_scene.unity
+- path: "Assets/Resources/\u540E\u671F\u5904\u7406/SkythianCat/Hand_Painted_Nature_Kit_LITE/DEMO/Demo_scene.unity"
   isLoaded: 1
   isActive: 1
